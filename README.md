@@ -1,3 +1,7 @@
 # Machine-Learning-Models
 
-Source Codes are taken from Azure Machine Learning Studio sample codes.
+## Regression
+## Classification
+## Clustering
+## Support Vector Machines
+## Deep Neural Networks
