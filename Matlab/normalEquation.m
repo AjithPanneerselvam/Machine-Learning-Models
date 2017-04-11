@@ -1,0 +1,1 @@
+% Normal equatin -> theta = ((X^T * X)^-1) * (X^T * Y)
