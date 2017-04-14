@@ -1,0 +1,17 @@
+t = [1:0.01:0.98]
+t
+y1 = sin(2*pi*4*t)
+plot(t,y1)
+y2 = cos(2*pi*4*t)
+
+help plot
+plot(t,y2);
+plot(t,y1);
+hold on;
+plot(t,y2,'r');
+xlabel('time')
+ylabel('value')
+legend('sin','cos')
+title('my plot')
+cd 'C:\Users\AjithPanneerselvam\Desktop'; print -dpng 'myPlot.png'
+close
